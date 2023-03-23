@@ -18,11 +18,15 @@
     "IDEVersion": "2023.200.0.299",
   },
   "resources": [
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ObjectUnit","path":"objects/ObjectUnit/ObjectUnit.yy",},},
+    {"id":{"name":"ObjectUnitPlayer","path":"objects/ObjectUnitPlayer/ObjectUnitPlayer.yy",},},
+    {"id":{"name":"ObjectRollbackManager","path":"objects/ObjectRollbackManager/ObjectRollbackManager.yy",},},
+    {"id":{"name":"SpriteFireguy","path":"sprites/SpriteFireguy/SpriteFireguy.yy",},},
+    {"id":{"name":"ObjectUnitNonplayer","path":"objects/ObjectUnitNonplayer/ObjectUnitNonplayer.yy",},},
+    {"id":{"name":"RoomGame","path":"rooms/RoomGame/RoomGame.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"RoomGame","path":"rooms/RoomGame/RoomGame.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

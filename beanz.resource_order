@@ -1,7 +1,11 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"Object1","order":16,"path":"objects/Object1/Object1.yy",},
-    {"name":"Room1","order":15,"path":"rooms/Room1/Room1.yy",},
+    {"name":"ObjectUnit","order":18,"path":"objects/ObjectUnit/ObjectUnit.yy",},
+    {"name":"ObjectUnitPlayer","order":19,"path":"objects/ObjectUnitPlayer/ObjectUnitPlayer.yy",},
+    {"name":"ObjectRollbackManager","order":17,"path":"objects/ObjectRollbackManager/ObjectRollbackManager.yy",},
+    {"name":"SpriteFireguy","order":21,"path":"sprites/SpriteFireguy/SpriteFireguy.yy",},
+    {"name":"ObjectUnitNonplayer","order":20,"path":"objects/ObjectUnitNonplayer/ObjectUnitNonplayer.yy",},
+    {"name":"RoomGame","order":15,"path":"rooms/RoomGame/RoomGame.yy",},
   ],
 }
